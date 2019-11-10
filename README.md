@@ -1,2 +1,1 @@
-# server-master
-for learning purpose
+# Readme
